@@ -22,4 +22,5 @@ Compute the mean order value for gender 0 and for gender 1. Do you think the dif
 Suppose that some of our customers told us that they believe red products are more eye-catching and therefore easier to sell. Based on the dataset provided, would you suggest that companies should color more of their products red? Why or why not and what other factors could be important to determine this?
 
 
-Jan 2021
+##### QJ
+##### Jan 2021
